@@ -1,1 +1,2 @@
 # Distress-Call-Classification-Models
+This project was a collab between my school and a startup that explores the application of ML on detetcting distress calls that allows farmers to verify if there is a potentinal sick animal. The data was collected from a poultry farm and I worked on labeling and building end to end ML soultion to allow the business to score their audio file and raise potential flags of early signs of disease
